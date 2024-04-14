@@ -19,3 +19,13 @@ SELECT name,
     ELSE "fail"
   END AS result
 FROM student1;
+
+
+SELECT * FROM student1;
+
+LOCK TABLE student1 read;
+
+
+update student1 set name = 'prathibha' where name = 'prathi';
+
+unlock tables;
