@@ -83,9 +83,3 @@ INSERT INTO author values(39,'prajwal','blore',60,509,404);
 
 
 
-
-
-
-
-
-
